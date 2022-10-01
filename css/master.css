@@ -14,7 +14,7 @@
 
   body {
     background-color: lightgrey;/* set the background color here */
-    colour: black;/* set the text color to black here */
+    color: black;/* set the text color to black here */
     font-family: Arial, Helvetica, sans-serif;/* set the font here */
     text-align: center;/* set the text alignment here */
    }
